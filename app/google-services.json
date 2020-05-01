@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "38992925999",
+    "firebase_url": "https://twourbansisters-1025.firebaseio.com",
+    "project_id": "twourbansisters-1025",
+    "storage_bucket": "twourbansisters-1025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38992925999:android:73fea3c0ce464c82e77dda",
+        "android_client_info": {
+          "package_name": "com.peter.tewourbansisters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38992925999-lnp198h5qp3p27cnuhjqqpm9ipbudsd8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peter.tewourbansisters",
+            "certificate_hash": "00181cee6737349af5b1978adc3506d7722f87da"
+          }
+        },
+        {
+          "client_id": "38992925999-dkqgevm2rt3a8mjv7tu296rc0gsu80cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0wrPycYw3nkPtqUYcW9sMULhuFV0t000"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38992925999-dkqgevm2rt3a8mjv7tu296rc0gsu80cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
